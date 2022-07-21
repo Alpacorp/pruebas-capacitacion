@@ -15,7 +15,7 @@ const GifExpertApp = () => {
   };
 
   return (
-    <div>
+    <div data-testid="gif-expert-app">
       <h1>GifExpertApp</h1>
       <AddCategory
         onNewCategory={(newCategory) => onAddCategory(newCategory)}

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifItem /> Debe de renderizar correctamente el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="The last of us"
+      src="https://i.gifer.com/1ZQ.gif"
+    />
+    <p>
+      The last of us
+    </p>
+  </div>
+</div>
+`;
